@@ -2,6 +2,8 @@ title: oraki
 description: pensamientos, escritos y rarezas personales  
 email: contacto@oraki.com.mx  
 
+theme: jekyll-theme-persephone
+
 author: ricardo meza  
 
 social:
@@ -27,3 +29,4 @@ theme_setting:
   lang:
     category_all: Todos
     blog_title: Inicio
+
