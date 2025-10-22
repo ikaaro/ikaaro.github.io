@@ -1,8 +1,8 @@
+theme: jekyll-theme-persephone
+
 title: oraki  
 description: pensamientos, escritos y rarezas personales  
 email: contacto@oraki.com.mx  
-
-theme: jekyll-theme-persephone
 
 author: ricardo meza  
 
@@ -10,7 +10,7 @@ social:
   github: ikaaro
   instagram: tu_usuario_si_quieres  
 
-logo: /img/logo.svg  
+logo: /assets/logo.svg  
 rss: "/feed.xml"
 
 theme_setting:
@@ -19,14 +19,11 @@ theme_setting:
   about_page: "about.md"
   archive_page: "archive.md"
   nav_pages:
-    - "about.md"
-    - 
-      title: "blog"
-      url: "/blog/"
+    - about.md
+    - blog/index.md
   code: true
   math: false
   mermaid: false
   lang:
     category_all: Todos
     blog_title: Inicio
-
